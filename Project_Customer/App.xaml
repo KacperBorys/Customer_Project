@@ -1,0 +1,8 @@
+﻿<Application x:Class="Project_Customer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Project_Customer"
+             StartupUri="Clients_List.xaml">
+    <Application.Resources>
+    </Application.Resources>
+</Application>
